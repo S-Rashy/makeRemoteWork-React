@@ -1,0 +1,12 @@
+.heromain{
+    /* max-width: 900px; */
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    padding: 0px 50px;
+
+}
+#heroimg{
+    width: 350px;
+    height: 450px;
+}
